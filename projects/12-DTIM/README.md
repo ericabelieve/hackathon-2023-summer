@@ -8,8 +8,10 @@
 
 项目简介，英文提交。
 DTIM is trying to create a safe, efficient, powerful and Web3-based instant collaboration tool, which is a breakthrough. It establishes solid trust relationship among organization members through open and transparent smart contract; it maintain end-to-end encrypted communication, to ensure efficient and confidentiallity; it improves work efficiency with thousands of open-source collaborative tool libraries; it keeps data in safe hands through distributed and decentralized storage.
-
-## 黑客松期间计划完成的事项
+Our long-term goal is to provide a safe, private, efficient and automated DAO tool for enterprises, blockchains and web3 practitioners, in a multi-stage style in different period, and, in the meantime, to offer communication, consensus, production, settlement and other basic needs of members. 
+Currently, we provide not only "ink!"-based DAO smart contract templates, but also substrate-based pallet templates, which support instant integration of all substrate-based blockchains. By compatible with existing DAOs through a non-instrusive way, it allows enterprises and organization to create their own DAOs in a more convenient way.
+At this stage, DAO-entrance will provide a slack-like client which is based on the matrix protocol for instant messaging. Users can log in with a blockchain account. This tool is designed for modern devices and is compatible with devices equipped with Windows/mac/Linux/android/iOS, and provides organization members with a concise and convenient collaboration platform.  
+黑客松期间计划完成的事项
 
 **区块链端**
 
@@ -39,8 +41,7 @@ DTIM is trying to create a safe, efficient, powerful and Web3-based instant coll
 - Demo 视频，ppt等大文件不要提交。可以在readme中存放它们的链接地址
 
 ## 队员信息
+Bai3 - Technical Lead
+Ericalee - Product Manager
+Wyatt - Front-end Developer
 
-包含参赛者名称及介绍
-在团队中担任的角色
-GitHub 帐号
-微信账号（如有请留下，方便及时联系）
